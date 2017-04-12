@@ -1,0 +1,11 @@
+
+#large-margin {
+	margin-top: 192px;
+	margin-bottom: 192px;
+}
+
+		#hero {
+	background-image: url('http://gamingtrend.com/wp-content/screenshots/the-amazing-spider-man/asm-spider-man-web-rushing-across-the-streets.jpg');
+	background-size: cover;
+	background-position: center;
+}
